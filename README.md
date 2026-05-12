@@ -321,9 +321,9 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Nuno Edgar Fernandes**  
+**Nuno Edgar Nunes Fernandes**  
 Physics Engineer · Optoelectronics & Photonics  
 Torres Vedras, Portugal  
-[Quantum Computing Files](https://quantumcomputingfiles.substack.com) · [GitHub](https://github.com/nunofernandes-plight)
+[Quantum Computing Files](https://quantumcomputingfiles.substack.com) · [GitHub](https://github.com/quantum-computing-files/LuminaQ-Quantum-Photonics-Platform/tree/main)
 
 
